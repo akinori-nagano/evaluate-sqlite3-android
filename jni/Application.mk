@@ -1,0 +1,5 @@
+APP_PROJECT_PATH := $(NDK_PROJECT_PATH)
+APP_BUILD_SCRIPT := $(APP_PROJECT_PATH)/jni/Android.mk
+APP_PLATFORM := android-14
+APP_STL := c++_static
+APP_ABI := all

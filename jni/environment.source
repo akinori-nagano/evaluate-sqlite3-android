@@ -1,0 +1,12 @@
+#!/bin/sh
+
+export NDK_HOME="/Users/admin/Library/Android/sdk/ndk/17.2.4988734"
+
+################################################################################
+set -ue
+
+export PATH="$PATH:/Users/admin/Library/Android/sdk/ndk/17.2.4988734"
+
+# ANDROID_NDK_HOME="${NDK_HOME}"
+# ANDROID_TOOLCHAINS="${ANDROID_NDK_HOME}/toolchains"
+# ANDROID_VERSION="android-21"
