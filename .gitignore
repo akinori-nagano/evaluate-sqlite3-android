@@ -17,4 +17,6 @@ local.properties
 /app/src/main/jniLibs/
 /libs/
 /obj/
+/DeviceDocuments/
+/app/src/main/assets/db.sqlite3
 *.sw?
